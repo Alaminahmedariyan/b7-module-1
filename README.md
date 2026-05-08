@@ -1,4 +1,4 @@
-# TypeScript Types-Of-Typescript — বাংলা গাইড
+# Types-Of-Typescript — বাংলা গাইড
 
 > TypeScript-এর মূল ধারণাগুলো বাংলায় শেখার জন্য এই repository।
 

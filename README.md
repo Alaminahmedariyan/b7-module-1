@@ -1,4 +1,4 @@
-# TypeScript Module 1 — বাংলা গাইড
+# TypeScript Types-Of-Typescript — বাংলা গাইড
 
 > TypeScript-এর মূল ধারণাগুলো বাংলায় শেখার জন্য এই repository।
 
@@ -8,7 +8,7 @@
 
 | ফাইল | বিষয় |
 |---|---|
-| `types-of-typescript.md` | Module 1-এর সব topic বিস্তারিত |
+| `types-of-typescript.md` | types-of-typescript-এর সব topic বিস্তারিত |
 
 ---
 
